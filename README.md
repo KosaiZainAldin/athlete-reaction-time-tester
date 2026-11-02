@@ -58,6 +58,6 @@ The MATLAB script requires MATLAB R2019b or newer because it uses `serialport`.
 The project was designed around the following goals:
 
 - Portability
-- Ability to analyze improvement in reaction time
-- Connection to a computer for data analysis
+- Reaction time measurement and performance analysis
+- Computer integration for data visualization
 
