@@ -53,3 +53,11 @@ The Arduino runs 20 rounds per session. MATLAB communicates with it at 115200 ba
 
 The MATLAB script requires MATLAB R2019b or newer because it uses `serialport`.
 
+## Design Goals
+
+The project was designed around the following goals:
+
+- Portability
+- Ability to analyze improvement in reaction time
+- Connection to a computer for data analysis
+
