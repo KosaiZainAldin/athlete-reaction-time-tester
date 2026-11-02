@@ -1,4 +1,5 @@
-// Athlete Reaction Time Sensor - Arduino side
+// Reconstructed Arduino example for the Athlete Reaction Time Training System.
+// This is not the original project code and may differ from the prototype software.
 // Five illuminated buttons. A random LED lights up; the athlete presses that
 // button as fast as possible. Each result is sent over USB serial as CSV:
 //     elapsed_ms,button_number,reaction_ms
