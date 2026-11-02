@@ -36,7 +36,7 @@ The project was completed as a team. Other contributions included 3D modeling an
 
 ## Software
 
-The repository includes the Arduino and MATLAB source files used by the system.
+The original project source code is no longer available. The Arduino and MATLAB files in this repository are reconstructed implementations based on the system's documented functionality. They are included as examples for reference and may differ from the software used in the original prototype.
 
 - [Arduino code](software/arduino/reaction_sensor.ino): controls the five buttons and LEDs, measures reaction times, and sends results over serial communication.
 - [MATLAB code](software/matlab/reaction_plot.m): receives measurements, plots reaction time in real time, calculates the average and best reaction times, and saves results to a CSV file.
@@ -53,17 +53,3 @@ The Arduino runs 20 rounds per session. MATLAB communicates with it at 115200 ba
 
 The MATLAB script requires MATLAB R2019b or newer because it uses `serialport`.
 
-## Design Goals
-
-The team presentation identified the following key project goals:
-
-- Portability
-- Ability to analyze improvement in reaction time
-- Connection to a computer for data analysis
-- Standalone operation, with a target battery life of at least one hour
-
-These were the goals documented in the project presentation. This repository does not claim that every goal was fully achieved.
-
-## Acknowledgment
-
-This was a collaborative ENGR 107 project. This repository documents my contribution and the team's prototype. Course materials and other team members' work should only be published with appropriate permission.
