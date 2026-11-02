@@ -1,4 +1,5 @@
-% Athlete Reaction Time Sensor - MATLAB side
+% Reconstructed MATLAB example for the Athlete Reaction Time Training System.
+% This is not the original project code and may differ from the prototype software.
 % Starts a session on the Arduino and plots reaction time vs time live.
 % Requires MATLAB R2019b or newer (uses serialport).
 
