@@ -26,14 +26,6 @@ My primary contribution was assembling the Arduino hardware and helping connect 
 
 The project was completed as a team. Other contributions included 3D modeling and printing, programming, and project documentation.
 
-## System Components
-
-- Five illuminated push buttons
-- Arduino based hardware assembly
-- Laptop running MATLAB
-- Serial communication between the Arduino and MATLAB
-- Real time plotting of reaction time data
-
 ## Hardware Design Reference
 
 The following schematic was initially developed using Tinkercad to help plan and develop the project's hardware design. It served as an early reference during the development process and does not represent the final wiring or exact configuration of the completed prototype.
